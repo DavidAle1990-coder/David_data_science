@@ -1,0 +1,8 @@
+print("Hola \"Federico\" ")
+print("Esta es una linea \ny esta es otra linea")
+print("Esta es la tercera linea")
+print("\tEsta es para tabular osea pone cuatro caracteres vacios antes de deonde le pongo ")
+print('This isn\'t a number')
+print("Caundo que queremos imprimir una \\ en nuestro string")
+print("Tu nombre es:" + input("dime tu nombre:") + " " + input("dime tu apellido: "))
+print("La cerveza se llama:\n  '" + input("Cual era el nombre de tu Abuelita") + " " + input("Cual es tu color favorito") + "'")
